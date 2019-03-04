@@ -1,0 +1,6 @@
+{
+    "name": "mtnewton/site-diff",
+    "require": {
+        "spatie/browsershot": "^3.26"
+    }
+}
